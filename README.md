@@ -13,3 +13,5 @@ The MIT License (MIT)
 Copyright (c) 2016 owwlo
 
 Licensed under the MIT License. See the top-level file LICENSE.
+
+总之岁月漫长，然而值得等待。
