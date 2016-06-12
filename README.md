@@ -4,4 +4,12 @@ bootstrap-oauth-login-page
 A simple OAuth login page for Facebook, Twitter, and Google etc. Build with Bootstrap, jQuery and Font Awesome.
 
 ScreenShot:
-![](https://raw2.github.com/owwlo/bootstrap-oauth-login-page/master/resources/screenshot1.png)
+![](https://raw.githubusercontent.com/owwlo/bootstrap-oauth-login-page/master/resources/screenshot1.png)
+
+
+# License
+The MIT License (MIT)
+
+Copyright (c) 2016 owwlo
+
+Licensed under the MIT License. See the top-level file LICENSE.
